@@ -1,0 +1,6 @@
+C:\Users\Alizada\source\repos\SocketServer\ServerData\bin\Debug\ServerData.dll
+C:\Users\Alizada\source\repos\SocketServer\ServerData\bin\Debug\ServerData.pdb
+C:\Users\Alizada\source\repos\SocketServer\ServerData\obj\Debug\ServerData.csprojResolveAssemblyReference.cache
+C:\Users\Alizada\source\repos\SocketServer\ServerData\obj\Debug\ServerData.csproj.CoreCompileInputs.cache
+C:\Users\Alizada\source\repos\SocketServer\ServerData\obj\Debug\ServerData.dll
+C:\Users\Alizada\source\repos\SocketServer\ServerData\obj\Debug\ServerData.pdb

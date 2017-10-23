@@ -1,0 +1,9 @@
+C:\Users\Alizada\source\repos\SocketServer\Server\bin\Debug\Server.exe.config
+C:\Users\Alizada\source\repos\SocketServer\Server\bin\Debug\Server.exe
+C:\Users\Alizada\source\repos\SocketServer\Server\bin\Debug\Server.pdb
+C:\Users\Alizada\source\repos\SocketServer\Server\bin\Debug\ServerData.dll
+C:\Users\Alizada\source\repos\SocketServer\Server\bin\Debug\ServerData.pdb
+C:\Users\Alizada\source\repos\SocketServer\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Alizada\source\repos\SocketServer\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Alizada\source\repos\SocketServer\Server\obj\Debug\Server.exe
+C:\Users\Alizada\source\repos\SocketServer\Server\obj\Debug\Server.pdb
